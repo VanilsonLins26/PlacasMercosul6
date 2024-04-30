@@ -1,0 +1,5 @@
+C:\Users\vanil\OneDrive\Área de Trabalho\placasmercosul6\PlacasMercosul6.exe
+C:\Users\vanil\OneDrive\Área de Trabalho\placasmercosul6\PlacasMercosul6.dll
+C:\Users\vanil\OneDrive\Área de Trabalho\placasmercosul6\PlacasMercosul6.deps.json
+C:\Users\vanil\OneDrive\Área de Trabalho\placasmercosul6\PlacasMercosul6.runtimeconfig.json
+C:\Users\vanil\OneDrive\Área de Trabalho\placasmercosul6\PlacasMercosul6.pdb

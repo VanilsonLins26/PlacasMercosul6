@@ -12,3 +12,4 @@ C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Debug\net8.0\refint\PlacasMercos
 C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Debug\net8.0\PlacasMercosul6.pdb
 C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Debug\net8.0\PlacasMercosul6.genruntimeconfig.cache
 C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Debug\net8.0\ref\PlacasMercosul6.dll
+C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Debug\net8.0\PlacasMercosul6.sourcelink.json

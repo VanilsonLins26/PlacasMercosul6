@@ -1,0 +1,15 @@
+C:\projetos\PlacasMercosul6\PlacasMercosul6\bin\Release\net8.0\PlacasMercosul6.exe
+C:\projetos\PlacasMercosul6\PlacasMercosul6\bin\Release\net8.0\PlacasMercosul6.deps.json
+C:\projetos\PlacasMercosul6\PlacasMercosul6\bin\Release\net8.0\PlacasMercosul6.runtimeconfig.json
+C:\projetos\PlacasMercosul6\PlacasMercosul6\bin\Release\net8.0\PlacasMercosul6.dll
+C:\projetos\PlacasMercosul6\PlacasMercosul6\bin\Release\net8.0\PlacasMercosul6.pdb
+C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Release\net8.0\PlacasMercosul6.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Release\net8.0\PlacasMercosul6.AssemblyInfoInputs.cache
+C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Release\net8.0\PlacasMercosul6.AssemblyInfo.cs
+C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Release\net8.0\PlacasMercosul6.csproj.CoreCompileInputs.cache
+C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Release\net8.0\PlacasMercosul6.sourcelink.json
+C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Release\net8.0\PlacasMercosul6.dll
+C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Release\net8.0\refint\PlacasMercosul6.dll
+C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Release\net8.0\PlacasMercosul6.pdb
+C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Release\net8.0\PlacasMercosul6.genruntimeconfig.cache
+C:\projetos\PlacasMercosul6\PlacasMercosul6\obj\Release\net8.0\ref\PlacasMercosul6.dll
